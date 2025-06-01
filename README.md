@@ -119,7 +119,6 @@ Based on the findings, here are some actionable recommendations:
 ### Future Steps
 
 - Build an interactive dashboard using Plotly or Power BI.
-- Implement clustering to segment customers by preference.
 - Deploy the predictive models in a web application for real-time simulation.
-- Expand the dataset with new test campaigns to refine predictions.
+
 
